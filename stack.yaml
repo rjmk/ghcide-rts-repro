@@ -1,0 +1,5 @@
+packages:
+- .
+
+ghc-options:
+  "$locals": '"+RTS -H32m -S -RTS"'
